@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Server details
-server=35.153.98.251
+server=100.27.14.103
 user="ubuntu"
 
 # SSH public key
